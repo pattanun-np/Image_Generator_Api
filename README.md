@@ -1,4 +1,4 @@
-##Image_Generator_Api 
+##Image_Generator_Api##
 ```python
 https://imagegen.herokuapp.com/users/<user_id>/is-admin 
 ##method = ["GET"] for check admin 
