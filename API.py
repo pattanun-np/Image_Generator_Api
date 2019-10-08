@@ -12,7 +12,7 @@ config = {
     "apiKey": "",
     "authDomain": "",
     "databaseURL": "",
-    "projectId": "deeplearning-7f788",
+    "projectId": "",
     "storageBucket": ""
 }
 
