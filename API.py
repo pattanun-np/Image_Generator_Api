@@ -9,11 +9,11 @@ from matplotlib.figure import Figure
 
 app = Flask(__name__)
 config = {
-    "apiKey": "AIzaSyD2fftOayM9dduIhseo2WKwICBWPb_VupQ",
-    "authDomain": "deeplearning-7f788.firebaseapp.com",
-    "databaseURL": "https://deeplearning-7f788.firebaseio.com",
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
     "projectId": "deeplearning-7f788",
-    "storageBucket": "deeplearning-7f788.appspot.com"
+    "storageBucket": ""
 }
 
 firebase = pyrebase.initialize_app(config)
